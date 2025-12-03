@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Uh-LaLa",
+  "base_artist": "豊崎愛生",
+  "createdAt": "2025-12-03T10:09:25.657966Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Uh Lala",
+      "artist": "YUNG LIXO",
+      "has_synced": true,
+      "path": "select/01_Uh_Lala_YUNG_LIXO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Uh lala",
+      "artist": "Ra'is",
+      "has_synced": false,
+      "path": "select/02_Uh_lala_Ra'is.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Uh Lala",
+      "artist": "Greeicy",
+      "has_synced": true,
+      "path": "select/03_Uh_Lala_Greeicy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Uh lala",
+      "artist": "Ra'is",
+      "has_synced": true,
+      "path": "select/04_Uh_lala_Ra'is.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Uh Lala",
+      "artist": "CANEY030",
+      "has_synced": true,
+      "path": "select/05_Uh_Lala_CANEY030.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Uh-LaLa",
+      "artist": "豊崎愛生",
+      "has_synced": true,
+      "path": "select/06_Uh-LaLa_豊崎愛生.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Uh-LaLa",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_01_Uh-LaLa_豊崎_愛生.txt"
+    }
+  ]
+}
